@@ -5,8 +5,8 @@ from pprint import pprint
 '''
 Splat
 '''
-user1 = input ("Input username 1: ")
-
+#user1 = input ("Input username 1: ")
+user1 = 'micnem00'
 
 TopArtists = []
 for i in range(10):
