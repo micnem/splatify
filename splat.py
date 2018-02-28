@@ -5,10 +5,12 @@ from pprint import pprint
 '''
 Splat
 '''
+user1 = input ("Input username 1: ")
+
 
 TopArtists = []
-for i in range(5):
-    with urllib.request.urlopen(" http://ws.audioscrobbler.com//2.0/?method=user.gettopartists&user=micnem00&api_key=61232e986c165da82d1903ac0bfcfac9&format=json") as url:
+for i in range(10):
+    with urllib.request.urlopen(" http://ws.audioscrobbler.com//2.0/?method=user.gettopartists&user=" + user1 + "&api_key=61232e986c165da82d1903ac0bfcfac9&format=json") as url:
         data = json.loads(url.read().decode())
         TopArtists.append(data['topartists']['artist'][i]['name'])
         print(TopArtists[i])
@@ -18,7 +20,7 @@ def cbc():
     return lambda : callback()
 
 def callback():
-    s = TopArtists[4]
+    s = TopArtists[9]
     tex.insert(tk.END, s)
     tex.see(tk.END)    # Scroll if necessary
 
