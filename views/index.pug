@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  form
+    label(for='user1') User 1:
+    input#name(type='text', placeholder='username' name='user1')
+    br
+    br
+    label(for='user2') User 2:
+    input#name(type='text', placeholder='username' name='user2')
+    br
+    br
+    button(type='submit') Submit
+
