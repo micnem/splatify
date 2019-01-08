@@ -1,0 +1,11 @@
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/Test.deps.json
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.json
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.dev.json
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/Test.dll
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/Test.pdb
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/Test.csprojAssemblyReference.cache
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/Test.csproj.CoreCompileInputs.cache
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfoInputs.cache
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfo.cs
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/Test.dll
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/Test.pdb

@@ -1,0 +1,11 @@
+/Users/michaelnemni/Projects/Intersect/Intersect/bin/Debug/netcoreapp2.2/Intersect.deps.json
+/Users/michaelnemni/Projects/Intersect/Intersect/bin/Debug/netcoreapp2.2/Intersect.runtimeconfig.json
+/Users/michaelnemni/Projects/Intersect/Intersect/bin/Debug/netcoreapp2.2/Intersect.runtimeconfig.dev.json
+/Users/michaelnemni/Projects/Intersect/Intersect/bin/Debug/netcoreapp2.2/Intersect.dll
+/Users/michaelnemni/Projects/Intersect/Intersect/bin/Debug/netcoreapp2.2/Intersect.pdb
+/Users/michaelnemni/Projects/Intersect/Intersect/obj/Debug/netcoreapp2.2/Intersect.csprojAssemblyReference.cache
+/Users/michaelnemni/Projects/Intersect/Intersect/obj/Debug/netcoreapp2.2/Intersect.csproj.CoreCompileInputs.cache
+/Users/michaelnemni/Projects/Intersect/Intersect/obj/Debug/netcoreapp2.2/Intersect.AssemblyInfoInputs.cache
+/Users/michaelnemni/Projects/Intersect/Intersect/obj/Debug/netcoreapp2.2/Intersect.AssemblyInfo.cs
+/Users/michaelnemni/Projects/Intersect/Intersect/obj/Debug/netcoreapp2.2/Intersect.dll
+/Users/michaelnemni/Projects/Intersect/Intersect/obj/Debug/netcoreapp2.2/Intersect.pdb

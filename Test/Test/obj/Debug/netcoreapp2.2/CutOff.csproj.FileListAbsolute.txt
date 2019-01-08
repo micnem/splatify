@@ -1,0 +1,11 @@
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/CutOff.deps.json
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/CutOff.runtimeconfig.json
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/CutOff.runtimeconfig.dev.json
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/CutOff.dll
+/Users/michaelnemni/Projects/Test/Test/bin/Debug/netcoreapp2.2/CutOff.pdb
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/CutOff.csprojAssemblyReference.cache
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/CutOff.csproj.CoreCompileInputs.cache
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/CutOff.AssemblyInfoInputs.cache
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/CutOff.AssemblyInfo.cs
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/CutOff.dll
+/Users/michaelnemni/Projects/Test/Test/obj/Debug/netcoreapp2.2/CutOff.pdb
