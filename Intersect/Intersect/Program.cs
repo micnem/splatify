@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -8,17 +8,17 @@ namespace Intersect
     {
         static void Main(string[] args)
         {
-            List<int> list1 = new List<int>();
-            List<int> list2 = new List<int>();
-            List<int> list3 = new List<int>();
+            List<string> list1 = new List<string>();
+            List<string> list2 = new List<string>();
+            List<string> list3 = new List<string>();
 
-            list1.AddRange(new int[] { 1, 2, 4, 5, 6, 9, 10 });
-            list2.AddRange(new int[] { 1, 2, 5, 7, 8, 10, 11 });
-            list3.AddRange(new int[] { 2, 3, 6, 7, 9, 10 });
+            list1.AddRange(new string[] { "Alfred Kingsby", "FUB", "Wakky Bakky", "Hilo", "Ridin", "GMFB", "Levy" });
+            list2.AddRange(new string[] { "Alfred Kingsby", "Siggy Siggurdson", "FUB", "NOUT", "Bob DillyWally", "GMFB", "HiLo" });
+            list3.AddRange(new string[] { "Alfred Kingsby", "FUB", "Wakky Bakky", "Hilo", "Ridin", "GMFB", "Levy" });
 
-            IEnumerable<int> listCommon = list1.Intersect(list2).Intersect(list3).ToArray();
+            IEnumerable<string> listCommon = list1.Intersect(list2).Intersect(list3).ToArray();
 
-            foreach (int i in listCommon)
+            foreach (string i in listCommon)
             {
                 Console.Write(i + " ");
             }
