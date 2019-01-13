@@ -1,0 +1,11 @@
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/obj/Debug/netcoreapp2.2/SizeOrder.csprojAssemblyReference.cache
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/obj/Debug/netcoreapp2.2/SizeOrder.csproj.CoreCompileInputs.cache
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/obj/Debug/netcoreapp2.2/SizeOrder.AssemblyInfoInputs.cache
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/obj/Debug/netcoreapp2.2/SizeOrder.AssemblyInfo.cs
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/bin/Debug/netcoreapp2.2/SizeOrder.deps.json
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/bin/Debug/netcoreapp2.2/SizeOrder.runtimeconfig.json
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/bin/Debug/netcoreapp2.2/SizeOrder.runtimeconfig.dev.json
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/bin/Debug/netcoreapp2.2/SizeOrder.dll
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/bin/Debug/netcoreapp2.2/SizeOrder.pdb
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/obj/Debug/netcoreapp2.2/SizeOrder.dll
+/Users/michaelnemni/Projects/SizeOrder/SizeOrder/obj/Debug/netcoreapp2.2/SizeOrder.pdb
