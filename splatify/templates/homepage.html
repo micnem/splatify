@@ -15,7 +15,6 @@
 
             <h1>Welcome to Splatify</h1>
             <h3>Making chills better since 2021</h3>
-            <p>Note to users: Splatify is still in beta and you will experience a few bugs. It takes a while to load your top artists so give it a minute once you click on the Splat button. If the app crashes, just refresh and the issue should be solved.</p>
             {% if not user.is_authenticated %}
             <a href="{% url "social:begin" "spotify" %}"><button type="button" class="btn btn-light">Login with Spotify</button></a>
             <a href="{% url "social:begin" "spotify" %}"><button type="button" class="btn btn-light">Don't have Spotify?</button></a>
